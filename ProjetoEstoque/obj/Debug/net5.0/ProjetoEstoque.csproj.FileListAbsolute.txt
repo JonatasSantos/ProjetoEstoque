@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ProjetoEstoque.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ProjetoEstoque.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ProjetoEstoque.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ProjetoEstoque.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ProjetoEstoque.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ref\ProjetoEstoque.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\bin\Debug\net5.0\ProjetoEstoque.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ref\ProjetoEstoque.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\ProjetoEstoque\ProjetoEstoque\obj\Debug\net5.0\ProjetoEstoque.genruntimeconfig.cache
